@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.fontFamily": "'Iosevka Extended'",
+		"debug.console.fontFamily": "'Iosevka Extended'",
+		"editor.fontFamily": "'Iosevka Extended'",
+		"editor.minimap.enabled": false,
+		"editor.formatOnSave": true,
+		"window.zoomLevel": 1,
+	}
+}
